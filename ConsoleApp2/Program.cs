@@ -10,6 +10,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+            int x=3;
             Console.WriteLine("Wclonme");
         }
     }
